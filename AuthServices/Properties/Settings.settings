@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AuthServices.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="auth_domain" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://localhost:44318</Value>
+    </Setting>
+    <Setting Name="webapp_domain" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://localhost:44356</Value>
+    </Setting>
+    <Setting Name="client_domain" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://localhost:44327</Value>
+    </Setting>
+    <Setting Name="all_domain" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">*</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,23 @@
+﻿.div-align-center{
+    text-align:center;
+}
+.div-align-right{
+    float:right;
+    text-align:right;
+}
+.div-align-left {
+    float: left;
+    text-align: left;
+}
+.div-bg-color-palebluelow{
+    background-color:#d5ddf1;
+}
+.heading-text-com1 {
+    color: #2568d1 !important;
+    font-weight: 600;    
+}
+.current-time{
+    font-size:24px !important;
+    margin-top:15px;
+    margin-bottom:15px;
+}
